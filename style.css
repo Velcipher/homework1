@@ -53,11 +53,23 @@ p {
     text-transform: capitalize;
 }
 
-    @media (max-width: 800px) {
-      #name {  
-    font-size: 30px;
-}
-}
+   @media (max-width: 765px) {
+       #name {
+           font-size: 30px;
+       }
+
+       .main-link {
+           display: block;
+           text-align: center;
+           margin: 0 auto;
+           width: 180px;
+       }
+
+       .main-link#contactMe {
+           width: 115px;
+       }
+   }
+
 #contact {
     margin-bottom: 30px;
 }
