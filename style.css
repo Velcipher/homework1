@@ -55,6 +55,9 @@ p {
 }
 
    @media (max-width: 765px) {
+        h1 {
+            font-size: 30px !important;
+        }
        #name {
            font-size: 30px;
        }
