@@ -58,6 +58,9 @@ p {
         h1 {
             font-size: 30px !important;
         }
+        #contant {
+            font-size: 25px;
+        }
        #name {
            font-size: 30px;
        }
