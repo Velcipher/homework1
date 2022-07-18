@@ -68,6 +68,9 @@ p {
        .main-link#contactMe {
            width: 115px;
        }
+       .email-link {
+font-size: 18px;
+       }
    }
 
 #contact {
